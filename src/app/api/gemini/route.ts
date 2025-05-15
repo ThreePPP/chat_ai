@@ -10,7 +10,7 @@ export async function POST(req: Request) {
   }
 
   try {
-    const apiResponse = await fetch('http://localhost:5000/generate', {
+    const apiResponse = await fetch('https://chat_ai.favorpc.top/', {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify({ message }),

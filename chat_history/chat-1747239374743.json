@@ -1,0 +1,12 @@
+[
+  {
+    "id": "4a51b626-97e1-4ca4-b9a3-1ca275849a18",
+    "sender": "user",
+    "text": "1+1"
+  },
+  {
+    "id": "7a0b4820-792c-4105-9e5d-aa8ec6aed8aa",
+    "sender": "ai",
+    "text": "2\n"
+  }
+]
